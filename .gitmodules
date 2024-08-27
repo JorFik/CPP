@@ -10,3 +10,6 @@
 [submodule "module_03"]
 	path = module_03
 	url = https://github.com/JorFik/CPP_module_03.git
+[submodule "module_04"]
+	path = module_04
+	url = https://github.com/JorFik/CPP_module_04.git
