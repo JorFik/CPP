@@ -25,3 +25,6 @@
 [submodule "module_08"]
 	path = module_08
 	url = https://github.com/JorFik/CPP_module_08.git
+[submodule "module_09"]
+	path = module_09
+	url = https://github.com/JorFik/CPP_module_09.git
